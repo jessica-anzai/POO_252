@@ -1,0 +1,10 @@
+Funcionario f1 = new Funcionario();
+
+Funcionario = classe, tipo, estrutura de dados
+f1 = objeto, varivel de instância
+
+INSTÂNCIA{
+    new = alocação de memoria
+    Funcionario() = método construtor
+    valor da variavel = estado
+}
