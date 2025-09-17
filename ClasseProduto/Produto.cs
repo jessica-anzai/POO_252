@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
+//Console.WriteLine($"");
+
 namespace ClasseProduto
 {
     public class Produto
@@ -14,7 +16,10 @@ namespace ClasseProduto
         public double subtotal;
 
         public void MostrarAtributos(){
-            
+            Console.WriteLine($"Código: {codigo}");
+            Console.WriteLine($"Nome: {nome}");
+            Console.WriteLine($"Preço: R${preco}");
+            Console.WriteLine($"Estoque: {estoque}");
         }
 
         public void CalcularAumento(){
@@ -24,7 +29,7 @@ namespace ClasseProduto
 
         }
         public void CalcularSubtotal(){
-            
+
         }
     }
 }
