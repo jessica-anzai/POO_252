@@ -1,0 +1,15 @@
+D:\POO_252\VetorProduto\obj\Debug\net9.0\VetorProduto.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO_252\VetorProduto\obj\Debug\net9.0\VetorProduto.AssemblyInfoInputs.cache
+D:\POO_252\VetorProduto\obj\Debug\net9.0\VetorProduto.AssemblyInfo.cs
+D:\POO_252\VetorProduto\obj\Debug\net9.0\VetorProduto.csproj.CoreCompileInputs.cache
+D:\POO_252\VetorProduto\obj\Debug\net9.0\VetorProduto.sourcelink.json
+D:\POO_252\VetorProduto\bin\Debug\net9.0\VetorProduto.exe
+D:\POO_252\VetorProduto\bin\Debug\net9.0\VetorProduto.deps.json
+D:\POO_252\VetorProduto\bin\Debug\net9.0\VetorProduto.runtimeconfig.json
+D:\POO_252\VetorProduto\bin\Debug\net9.0\VetorProduto.dll
+D:\POO_252\VetorProduto\bin\Debug\net9.0\VetorProduto.pdb
+D:\POO_252\VetorProduto\obj\Debug\net9.0\VetorProduto.dll
+D:\POO_252\VetorProduto\obj\Debug\net9.0\refint\VetorProduto.dll
+D:\POO_252\VetorProduto\obj\Debug\net9.0\VetorProduto.pdb
+D:\POO_252\VetorProduto\obj\Debug\net9.0\VetorProduto.genruntimeconfig.cache
+D:\POO_252\VetorProduto\obj\Debug\net9.0\ref\VetorProduto.dll

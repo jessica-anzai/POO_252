@@ -15,7 +15,24 @@ internal class Program
         Console.WriteLine("Informe o preço: ");
         p.preco = Convert.ToDouble(Console.ReadLine());
         Console.WriteLine("Informe o estoque disponível: ");
-        p.estoque = Convert.ToInt32(COnsole.ReadLine());
+        p.estoque = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine("");
+        p.MostrarAtributos();
+        Console.WriteLine("");
+        Console.WriteLine("Informe o valor do aumento: ");
+        double aum = Convert.ToDouble(Console.ReadLine());
+        p.CalcularAumento(aum);
+        Console.WriteLine("");
+        Console.WriteLine("Produto alterado - aumento no preço");
+        p.MostrarAtributos();
+        Console.WriteLine("");
+        Console.WriteLine("Quantos itens deseja retirar do estoque?");
+        int retirar = Convert.ToInt32(Console.ReadLine());
+        p.RetirarEstoque(retirar);
+        Console.WriteLine($"{retirar} retirados com sucesso!");
+        Console.WriteLine("");
+        p.MostrarAtributos();
+        p.CalcularSubtotal();
+        p.MostrarAtributos();
     }
 }

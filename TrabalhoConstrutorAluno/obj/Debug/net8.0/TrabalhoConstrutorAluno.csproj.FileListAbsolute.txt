@@ -1,0 +1,15 @@
+D:\POO_252\TrabalhoConstrutorAluno\bin\Debug\net8.0\TrabalhoConstrutorAluno.exe
+D:\POO_252\TrabalhoConstrutorAluno\bin\Debug\net8.0\TrabalhoConstrutorAluno.deps.json
+D:\POO_252\TrabalhoConstrutorAluno\bin\Debug\net8.0\TrabalhoConstrutorAluno.runtimeconfig.json
+D:\POO_252\TrabalhoConstrutorAluno\bin\Debug\net8.0\TrabalhoConstrutorAluno.dll
+D:\POO_252\TrabalhoConstrutorAluno\bin\Debug\net8.0\TrabalhoConstrutorAluno.pdb
+D:\POO_252\TrabalhoConstrutorAluno\obj\Debug\net8.0\TrabalhoConstrutorAluno.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO_252\TrabalhoConstrutorAluno\obj\Debug\net8.0\TrabalhoConstrutorAluno.AssemblyInfoInputs.cache
+D:\POO_252\TrabalhoConstrutorAluno\obj\Debug\net8.0\TrabalhoConstrutorAluno.AssemblyInfo.cs
+D:\POO_252\TrabalhoConstrutorAluno\obj\Debug\net8.0\TrabalhoConstrutorAluno.csproj.CoreCompileInputs.cache
+D:\POO_252\TrabalhoConstrutorAluno\obj\Debug\net8.0\TrabalhoConstrutorAluno.sourcelink.json
+D:\POO_252\TrabalhoConstrutorAluno\obj\Debug\net8.0\TrabalhoConstrutorAluno.dll
+D:\POO_252\TrabalhoConstrutorAluno\obj\Debug\net8.0\refint\TrabalhoConstrutorAluno.dll
+D:\POO_252\TrabalhoConstrutorAluno\obj\Debug\net8.0\TrabalhoConstrutorAluno.pdb
+D:\POO_252\TrabalhoConstrutorAluno\obj\Debug\net8.0\TrabalhoConstrutorAluno.genruntimeconfig.cache
+D:\POO_252\TrabalhoConstrutorAluno\obj\Debug\net8.0\ref\TrabalhoConstrutorAluno.dll

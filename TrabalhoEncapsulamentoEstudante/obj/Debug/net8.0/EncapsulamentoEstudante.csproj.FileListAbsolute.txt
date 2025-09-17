@@ -1,0 +1,15 @@
+D:\POO_252\TrabalhoEncapsulamentoEstudante\obj\Debug\net8.0\EncapsulamentoEstudante.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO_252\TrabalhoEncapsulamentoEstudante\obj\Debug\net8.0\EncapsulamentoEstudante.AssemblyInfoInputs.cache
+D:\POO_252\TrabalhoEncapsulamentoEstudante\obj\Debug\net8.0\EncapsulamentoEstudante.AssemblyInfo.cs
+D:\POO_252\TrabalhoEncapsulamentoEstudante\obj\Debug\net8.0\EncapsulamentoEstudante.csproj.CoreCompileInputs.cache
+D:\POO_252\TrabalhoEncapsulamentoEstudante\obj\Debug\net8.0\EncapsulamentoEstudante.sourcelink.json
+D:\POO_252\TrabalhoEncapsulamentoEstudante\bin\Debug\net8.0\EncapsulamentoEstudante.exe
+D:\POO_252\TrabalhoEncapsulamentoEstudante\bin\Debug\net8.0\EncapsulamentoEstudante.deps.json
+D:\POO_252\TrabalhoEncapsulamentoEstudante\bin\Debug\net8.0\EncapsulamentoEstudante.runtimeconfig.json
+D:\POO_252\TrabalhoEncapsulamentoEstudante\bin\Debug\net8.0\EncapsulamentoEstudante.dll
+D:\POO_252\TrabalhoEncapsulamentoEstudante\bin\Debug\net8.0\EncapsulamentoEstudante.pdb
+D:\POO_252\TrabalhoEncapsulamentoEstudante\obj\Debug\net8.0\EncapsulamentoEstudante.dll
+D:\POO_252\TrabalhoEncapsulamentoEstudante\obj\Debug\net8.0\refint\EncapsulamentoEstudante.dll
+D:\POO_252\TrabalhoEncapsulamentoEstudante\obj\Debug\net8.0\EncapsulamentoEstudante.pdb
+D:\POO_252\TrabalhoEncapsulamentoEstudante\obj\Debug\net8.0\EncapsulamentoEstudante.genruntimeconfig.cache
+D:\POO_252\TrabalhoEncapsulamentoEstudante\obj\Debug\net8.0\ref\EncapsulamentoEstudante.dll

@@ -10,26 +10,23 @@ namespace ClasseProduto
     public class Produto
     {
         public int codigo;
-        public string nome;
+        public string? nome;
         public double preco;
         public int estoque;
         public double subtotal;
 
         public void MostrarAtributos(){
-            Console.WriteLine($"Código: {codigo}");
-            Console.WriteLine($"Nome: {nome}");
-            Console.WriteLine($"Preço: R${preco}");
-            Console.WriteLine($"Estoque: {estoque}");
+            Console.WriteLine($"Código: {codigo}\tNome: {nome}\tPreço: R${preco}\tEstoque: {estoque}\tSubtotal: {subtotal}");
         }
 
-        public void CalcularAumento(){
-            //porcentagem
+        public void CalcularAumento(double aumento){
+            preco += preco*aumento/100;
         }
-        public void RetirarEstoque(){
-
+        public void RetirarEstoque(int retirar){
+            estoque-=retirar;
         }
         public void CalcularSubtotal(){
-
+            subtotal = preco*estoque;
         }
     }
 }

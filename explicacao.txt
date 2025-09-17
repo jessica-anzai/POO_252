@@ -8,3 +8,36 @@ INSTÂNCIA{
     Funcionario() = método construtor
     valor da variavel = estado
 }
+
+
+foreach(tipo variavel in vetor)
+
+Um objeto só existe quando existe a instanciação
+
+List<Funcionario> vetF = new List<funcionario>();
+     <gererics>            tipo do construtor
+
+.append (python inserir valor) == .Add(obj)
+
+ENCAPSULAMENTO
+class Conta{
+    private double saldo;
+}
+
+
+//get = buscar ;;; set = alterar
+//Console.WriteLine(c1.GetSaldo());
+
+//PROPRIEDADE
+public double Saldo{
+    get{
+        return saldo;
+    }
+    set{
+        saldo = value;
+    }
+}
+
+construtor é um metodo sem retorno, inicializa os atributos do objeto
+prop = monta declaração de atributos de forma implicita com encapsulamento get e set
+ctor = monta construtor
