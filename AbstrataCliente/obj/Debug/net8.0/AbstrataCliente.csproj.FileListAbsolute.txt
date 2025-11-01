@@ -1,0 +1,5 @@
+D:\POO_252\AbstrataCliente\obj\Debug\net8.0\AbstrataCliente.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO_252\AbstrataCliente\obj\Debug\net8.0\AbstrataCliente.AssemblyInfoInputs.cache
+D:\POO_252\AbstrataCliente\obj\Debug\net8.0\AbstrataCliente.AssemblyInfo.cs
+D:\POO_252\AbstrataCliente\obj\Debug\net8.0\AbstrataCliente.csproj.CoreCompileInputs.cache
+D:\POO_252\AbstrataCliente\obj\Debug\net8.0\AbstrataCliente.sourcelink.json

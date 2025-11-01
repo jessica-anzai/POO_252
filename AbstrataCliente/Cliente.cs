@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace AbstrataCliente
 {
-    public class Cliente
+    public abstract class Cliente
     {
         protected int codigo;
         protected string? nome;
