@@ -3,6 +3,8 @@ Funcionario f1 = new Funcionario();
 Funcionario = classe, tipo, estrutura de dados
 f1 = objeto, varivel de instância
 
+objeto é instancia da classe.
+
 INSTÂNCIA{
     new = alocação de memoria
     Funcionario() = método construtor
@@ -41,3 +43,14 @@ public double Saldo{
 construtor é um metodo sem retorno, inicializa os atributos do objeto
 prop = monta declaração de atributos de forma implicita com encapsulamento get e set
 ctor = monta construtor
+
+var = tipo implicito
+
+HERENÇA
+Poligono : Forma -> : significa 'extends'
+
+    <- GENERALIZAÇÃO <-
+Forma <- Retângulo <-  Quadrado
+    -> ESPECIALIZAÇÃO ->
+
+PRIVATE vira PROTECTED, para que as classes filho consiga acessar o atributo da classe pai. Atributo do filho permanece PRIVATE (ultima classe)

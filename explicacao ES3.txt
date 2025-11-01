@@ -1,0 +1,9 @@
+Estado - conjunto de atributo
+Comportamento - conjunto de métodos
+
+objeto é dinâmico - criado por alguem, tem uma vida, morre ou é morto
+
+Meta-classe: classe de classe
+
+interface: método público
+

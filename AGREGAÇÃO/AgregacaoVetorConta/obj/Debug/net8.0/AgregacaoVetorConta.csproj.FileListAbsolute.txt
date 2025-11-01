@@ -1,0 +1,15 @@
+D:\POO_252\AgregacaoVetorConta\obj\Debug\net8.0\AgregacaoVetorConta.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO_252\AgregacaoVetorConta\obj\Debug\net8.0\AgregacaoVetorConta.AssemblyInfoInputs.cache
+D:\POO_252\AgregacaoVetorConta\obj\Debug\net8.0\AgregacaoVetorConta.AssemblyInfo.cs
+D:\POO_252\AgregacaoVetorConta\obj\Debug\net8.0\AgregacaoVetorConta.csproj.CoreCompileInputs.cache
+D:\POO_252\AgregacaoVetorConta\obj\Debug\net8.0\AgregacaoVetorConta.sourcelink.json
+D:\POO_252\AgregacaoVetorConta\bin\Debug\net8.0\AgregacaoVetorConta.exe
+D:\POO_252\AgregacaoVetorConta\bin\Debug\net8.0\AgregacaoVetorConta.deps.json
+D:\POO_252\AgregacaoVetorConta\bin\Debug\net8.0\AgregacaoVetorConta.runtimeconfig.json
+D:\POO_252\AgregacaoVetorConta\bin\Debug\net8.0\AgregacaoVetorConta.dll
+D:\POO_252\AgregacaoVetorConta\bin\Debug\net8.0\AgregacaoVetorConta.pdb
+D:\POO_252\AgregacaoVetorConta\obj\Debug\net8.0\AgregacaoVetorConta.dll
+D:\POO_252\AgregacaoVetorConta\obj\Debug\net8.0\refint\AgregacaoVetorConta.dll
+D:\POO_252\AgregacaoVetorConta\obj\Debug\net8.0\AgregacaoVetorConta.pdb
+D:\POO_252\AgregacaoVetorConta\obj\Debug\net8.0\AgregacaoVetorConta.genruntimeconfig.cache
+D:\POO_252\AgregacaoVetorConta\obj\Debug\net8.0\ref\AgregacaoVetorConta.dll

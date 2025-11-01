@@ -1,0 +1,15 @@
+D:\POO_252\TrabalhoComposicao\obj\Debug\net9.0\TrabalhoComposicao.GeneratedMSBuildEditorConfig.editorconfig
+D:\POO_252\TrabalhoComposicao\obj\Debug\net9.0\TrabalhoComposicao.AssemblyInfoInputs.cache
+D:\POO_252\TrabalhoComposicao\obj\Debug\net9.0\TrabalhoComposicao.AssemblyInfo.cs
+D:\POO_252\TrabalhoComposicao\obj\Debug\net9.0\TrabalhoComposicao.csproj.CoreCompileInputs.cache
+D:\POO_252\TrabalhoComposicao\obj\Debug\net9.0\TrabalhoComposicao.sourcelink.json
+D:\POO_252\TrabalhoComposicao\bin\Debug\net9.0\TrabalhoComposicao.exe
+D:\POO_252\TrabalhoComposicao\bin\Debug\net9.0\TrabalhoComposicao.deps.json
+D:\POO_252\TrabalhoComposicao\bin\Debug\net9.0\TrabalhoComposicao.runtimeconfig.json
+D:\POO_252\TrabalhoComposicao\bin\Debug\net9.0\TrabalhoComposicao.dll
+D:\POO_252\TrabalhoComposicao\bin\Debug\net9.0\TrabalhoComposicao.pdb
+D:\POO_252\TrabalhoComposicao\obj\Debug\net9.0\TrabalhoComposicao.dll
+D:\POO_252\TrabalhoComposicao\obj\Debug\net9.0\refint\TrabalhoComposicao.dll
+D:\POO_252\TrabalhoComposicao\obj\Debug\net9.0\TrabalhoComposicao.pdb
+D:\POO_252\TrabalhoComposicao\obj\Debug\net9.0\TrabalhoComposicao.genruntimeconfig.cache
+D:\POO_252\TrabalhoComposicao\obj\Debug\net9.0\ref\TrabalhoComposicao.dll

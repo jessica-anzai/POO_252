@@ -1,0 +1,36 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace HerancaProduto
+{
+    public class Produto
+    {
+        protected int codigo;
+        public int Codigo
+        {
+            get { return codigo; }
+            set { codigo = value; }
+        }
+
+        protected string? nome;
+        public string? Nome
+        {
+            get { return nome; }
+            set { nome = value; }
+        }
+
+        protected double preco;
+        public double Preco
+        {
+            get { return preco; }
+            set { preco = value; }
+        }
+        
+        public virtual void Mostrar(){
+            Console.WriteLine($"Código: {codigo}\tNome: {nome}\tPreço: {preco:c}");
+        }
+        
+    }
+}
